@@ -29,6 +29,7 @@ body {
 }
 
 .country__title {
+  margin: 10px;
   text-align: center;
   font-size: 70px;
 }
